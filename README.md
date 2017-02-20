@@ -8,7 +8,7 @@ There are few steps to create a gaussian pyramid
 3. repeat the 1&2 steps to make next layer of pyramid.
 
 The result would like that 
-https://github.com/night18/Gaussian_pyramid/blob/master/Gaussian.png
+![Alt text](https://github.com/night18/Gaussian_pyramid/blob/master/Gaussian.png "Gaussian pyramid")
 
 To make a Luplacian pyramid needs
 1.Scale the layer up with the length and width to 2.
@@ -16,4 +16,4 @@ To make a Luplacian pyramid needs
 3. repeat the 1&2 steps to make next layer of pyramid.
 
 The result would like that 
-https://github.com/night18/Gaussian_pyramid/blob/master/Laplacian.png
+![Alt text] (https://github.com/night18/Gaussian_pyramid/blob/master/Laplacian.png "Luplacian pyramid")
