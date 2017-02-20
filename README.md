@@ -11,8 +11,8 @@ The result would like that
 ![Alt text](https://github.com/night18/Gaussian_pyramid/blob/master/Gaussian.png "Gaussian pyramid")
 
 To make a Luplacian pyramid needs
- 1.Scale the layer up with the length and width to 2.
- 2.The previous Gaussian pyramid layer minus the scaled-up layer.
+ 1. Scale the layer up with the length and width to 2
+ 2. The previous Gaussian pyramid layer minus the scaled-up layer.
  3. repeat the 1&2 steps to make next layer of pyramid.
 
 The result would like that 
