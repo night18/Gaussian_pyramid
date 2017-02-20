@@ -1,6 +1,6 @@
 # Gaussian_pyramid
 
-The project is a small example of Gaussian pyramid and Luplcian pyramid.
+The project is a small example of Gaussian pyramid and Luplcian pyramid without openCV.
 
 There are few steps to create a gaussian pyramid
  1. Weighted down using a Gaussian blur
